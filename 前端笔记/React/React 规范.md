@@ -64,7 +64,7 @@ class Person extends React.Component {
 
 
 
-##计算属性
+## 计算属性
 
 使用 getters 封装 render 所需要的状态或条件的组合
 
